@@ -1,0 +1,3 @@
+# Named-Entity-Recognition-using-GloVe-Embeddings-LSTM-BiLSTM
+
+Named Entity Recognition using GloVe Embeddings and LSTM/BiLSTM" is a project aimed at identifying named entities in text using GloVe word embeddings and recurrent neural network (RNN) models such as Long Short-Term Memory (LSTM) or Bidirectional LSTM (BiLSTM). This project leverages pre-trained GloVe word embeddings to convert words in the text into numerical representations, then utilizes RNN models to predict named entity labels such as persons, locations, and organizations in the text. Thus, the project enables automated identification and tagging of named entities in text with high accuracy.
